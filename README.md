@@ -41,9 +41,7 @@
 ###
 
 <div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/Maria Eduarda da Silva Macedo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Maria%20Eduarda%20da%20Silva%20Macedo&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<img width="740" height="739" alt="image" src="https://github.com/user-attachments/assets/43ab2264-fcc6-4dac-bf2c-bcd6471193b4" />
+
 
 ###
